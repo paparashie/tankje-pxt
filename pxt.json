@@ -1,0 +1,16 @@
+{
+    "name": "tankje",
+    "version": "0.0.1",
+    "description": "Tankje blokken voor RobotBit met servo's, toeter, lampjes en ultrasone sensor",
+    "dependencies": {
+        "core": "*",
+        "robotbit": "github:kittenbot/pxt-robotbit",
+        "neopixel": "github:microsoft/pxt-neopixel"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "public": true,
+    "preferredEditor": "blocksprj"
+}
